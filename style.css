@@ -1,0 +1,29 @@
+.menu_heading {
+    font-size: 13px;
+    line-height: 16px;
+    color: #253b96;
+    padding: 8px 0;
+    display: block;
+}
+
+.photo_min {
+    width: 350px;
+    /* отступ */
+    padding: 100px;
+}
+
+.photo_max {
+    width: 850px;
+    padding: 50px;
+}
+
+.heading {
+    background-color: rgb(127, 161, 172);
+    padding: 15px;
+}
+
+.title {
+    text-align: center;
+    height: 80px;
+    background-color: #ccc;
+}
